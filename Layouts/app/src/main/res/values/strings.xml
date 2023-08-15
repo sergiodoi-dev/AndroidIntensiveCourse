@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Layouts</string>
+    <string name="title_home">Linear</string>
+    <string name="title_dashboard">Frame</string>
+    <string name="title_notifications">Constraint</string>
+    <string name="title_task">Task</string>
+</resources>
