@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Users SP</string>
+    <string name="description_user_photo">User image</string>
+    <string name="sp_first_time">First time</string>
+    <string name="dialog_title">User registry</string>
+    <string name="dialog_confirm">Register</string>
+    <string name="helper_user">Mandatory</string>
+    <string name="hint_username">Username</string>
+    <string name="sp_username">Username</string>
+    <string name="register_success">User registered</string>
+    <string name="dialog_neutral">Guess</string>
+    <string name="register_invalid">Enter a valid username</string>
+</resources>
